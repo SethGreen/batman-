@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GuessNumberGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="enter_number"> </string>
+    <string name="compare_btn">Compare</string>
+    <string name="reset_btn">Reset</string>
+    <string name="txt_shots"> </string>
+    <string name="dialog_msg">Bill Gates</string>
+    <string name="dialog_ok_btn">OK</string>
+    <string name="show_user_name">Show User Name</string>
+    <string name="alert_msg">Alert</string>
+</resources>
